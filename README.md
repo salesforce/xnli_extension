@@ -12,7 +12,7 @@ We release a subset of the MultiNLI/XNLI dataset translated into an additional 1
 ```
 @article{singhMultiLingTokBias2019,
 title={{BERT is Not an Interlingua and the Bias of Tokenization}},
-author={Sing, Jasdeep and McCann, Bryan and Xiong, Caiming and Socher, Richard},
+author={Singh, Jasdeep and McCann, Bryan and Xiong, Caiming and Socher, Richard},
 journal={The Workshop on Deep Learning for Low-Resource NLP at EMNLP 2019},
 year={2019}
 }
