@@ -1,4 +1,4 @@
-# xnli_extension
+# An Extension of XNLI
 
 ## Abstract
 Multilingual transfer learning can benefit both high- and low-resource languages, but the source of these improvements is not well understood.
